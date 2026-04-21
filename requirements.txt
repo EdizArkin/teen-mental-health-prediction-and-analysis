@@ -1,0 +1,24 @@
+# Core
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Explainability
+shap
+
+# Statistics
+scipy
+statsmodels
+
+# Notebook
+jupyter
+
+# Optional
+plotly
